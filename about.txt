@@ -1,0 +1,16 @@
+a formum
+home page(register-login-view)
+register->login
+login->write
+--------
+a database
+ register details->reg db,write db
+ write db:--
+ username,topic name, topic
+ -----------
+ a user can not reregister
+-------------
+clear telling of the site in home page
+->no reregistersations
+->routing from home to write ,page
+->showning up of blogs in a details manner by avoiding unnecessary details,in structured manner
