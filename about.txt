@@ -1,16 +1,7 @@
-a formum
-home page(register-login-view)
-register->login
-login->write
---------
-a database
- register details->reg db,write db
- write db:--
- username,topic name, topic
- -----------
- a user can not reregister
--------------
-clear telling of the site in home page
-->no reregistersations
-->routing from home to write ,page
-->showning up of blogs in a details manner by avoiding unnecessary details,in structured manner
+ in this users can register themselves with unique identity<br>
+   -> then by loggin in users can post their views<br>
+   ->it is basically a site of think bank<br>
+   ->in addition there is a option of cricket score live updasts just for those who have an account<br>
+   ->but it is open to all to see the think bank<br>
+   ->developed by using larvel
+   
