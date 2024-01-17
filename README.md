@@ -1,5 +1,6 @@
 ## tech used
-laravel,mysql
+-laravel
+- mysql
 ## what it does
 user can register,then login<br>
 each registerd user can post into the forum<br>
